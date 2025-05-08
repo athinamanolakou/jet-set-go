@@ -1,6 +1,6 @@
 # ✈️ JetSetGo
 
-**JetSetGo** is a smart travel companion app built with Flutter and Firebase, designed to help users organize their trips with ease. It includes features for packing, document management, weather previews, and itinerary planning — all wrapped in a sleek, modern UI.
+**JetSetGo** is a smart travel companion app built with Flutter and Firebase, designed to help users organize their trips with ease. It includes features for packing, document management, weather previews, and itinerary planning. 
 
 ---
 
@@ -31,6 +31,9 @@ note: Make sure you have Flutter installed and connected to a device or simulato
 - Firebase (Authentication, Firestore, Storage)
 - URL Launcher
 - Custom Components for UI and navigation
+- OpenWeather API (for live weather data)
+- Gemini API (for AI-powered suggestions)
+
 
 ## Project Structure 
 
