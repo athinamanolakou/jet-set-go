@@ -33,6 +33,8 @@ note: Make sure you have Flutter installed and connected to a device or simulato
 - Custom Components for UI and navigation
 
 ## Project Structure 
+
+```plaintext
 jetsetgo/
 ├── android/                // Android platform-specific code
 ├── ios/                    // iOS platform-specific code
@@ -52,6 +54,7 @@ jetsetgo/
 ├── pubspec.lock            // Dependency versions lock file
 ├── .gitignore              // Git ignored files
 └── README.md               // Project overview
+```
 
 
 note: This project is intended for educational and portfolio use only.
